@@ -1,0 +1,777 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\grayFoundation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\grayFoundation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\0.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\00.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\001.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\001.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\011.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\011.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\1.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\10.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\11.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\12.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\13.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\14.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\15.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\16.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\17.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\18.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\19.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\1a.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\1a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\1b.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\1c.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\1c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\1d.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\1d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\2.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\20.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\21.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\22.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\23.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\23.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\24.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\24.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\25.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\25.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\26.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\27.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\28.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\2a.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\2b.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\2b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\3.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\3a.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\3b.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\3b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\3c.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\3d.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\4.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\5.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\6.webp",
+      "PackagePath": "staticwebassets\\GrayPic\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\7.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\8.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\9.jpg",
+      "PackagePath": "staticwebassets\\GrayPic\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\GrayPic\\logo.png",
+      "PackagePath": "staticwebassets\\GrayPic\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\config-scss.bat",
+      "PackagePath": "staticwebassets\\assets\\config-scss.bat"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\fontawsom-all.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawsom-all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\fonts\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\fonts\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\events\\image_08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\events\\image_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\misin.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\misin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\team\\team-memb1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-memb1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\team\\team-memb2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-memb2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\team\\team-memb3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-memb3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\team\\team-memb4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team\\team-memb4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\images\\vision.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vision.jpg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\grid-gallery\\css\\grid-gallery.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\grid-gallery\\css\\grid-gallery.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\grid-gallery\\css\\grid-gallery.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\grid-gallery\\css\\grid-gallery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\grid-gallery\\js\\grid-gallery.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\grid-gallery\\js\\grid-gallery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\grid-gallery\\js\\grid-gallery.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\grid-gallery\\js\\grid-gallery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\owl\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\owl\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\owl\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\owl\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\scroll-fixed\\jquery-scrolltofixed-min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\scroll-fixed\\jquery-scrolltofixed-min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\slider\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slider\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\slider\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slider\\css\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\slider\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slider\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\slider\\js\\slider.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slider\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\testimonial\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\testimonial\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\testimonial\\css\\owl.theme.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\testimonial\\css\\owl.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\plugins\\testimonial\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\testimonial\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\_variable.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\base\\Untitled-6",
+      "PackagePath": "staticwebassets\\assets\\scss\\base"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\base\\basic_setup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\base\\basic_setup.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\response\\responsive.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\response\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Iconsb26c.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Iconsb26c.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Iconsb26c.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Iconsb26c.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Iconsb26c.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Iconsb26c.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Iconsb26c.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Iconsb26c.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\Simple-Line-Iconsb26c.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\Simple-Line-Iconsb26c.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\themify.eot",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\themify.svg",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\assets\\webfonts\\themify.woff",
+      "PackagePath": "staticwebassets\\assets\\webfonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\grayFoundation\\grayFoundation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.grayFoundation.props",
+      "PackagePath": "build\\grayFoundation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.grayFoundation.props",
+      "PackagePath": "buildMultiTargeting\\grayFoundation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.grayFoundation.props",
+      "PackagePath": "buildTransitive\\grayFoundation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.grayFoundation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
